@@ -1,4 +1,11 @@
 # MolSSI Workshop at Rice University Tapia Center
 
-This repository contains materials for the MolSSI Coding Workshop at the Rice University Tapia Center Camp.
-This five day workshop for undergraduate students focuses on scientific programming skills and applications in computational chemistry. June 10-14, 2019.  
+This repository contains materials for the MolSSI Computational chemistry Workshop at the Rice University Tapia Center Camp. June 10-14, 2019.
+
+##Topics
+
+-Python syntax
+-File parsing
+-Plotting
+-Geometry Analysis Project
+-git and Github
