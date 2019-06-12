@@ -2,10 +2,10 @@
 
 This repository contains materials for the MolSSI Computational chemistry Workshop at the Rice University Tapia Center Camp. June 10-14, 2019.
 
-##Topics
+## Topics
 
--Python syntax
--File parsing
--Plotting
--Geometry Analysis Project
--git and Github
+- Python syntax
+- File parsing
+- Plotting
+- Geometry Analysis Project
+- git and Github
